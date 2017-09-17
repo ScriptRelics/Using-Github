@@ -7,29 +7,18 @@ Github Flavored Markdown (GFMD)
 [Text Formatting](https://github.com/newCodez99/Using-Github/blob/master/Github%20Flavored%20Markdown.md#text-formatting)  
 [Headings](https://github.com/newCodez99/Using-Github/blob/master/Github%20Flavored%20Markdown.md#headings)  
 [Horizontal Rules](https://github.com/newCodez99/Using-Github/blob/master/Github%20Flavored%20Markdown.md#horizontal-rules)  
-[]()  
-[]()  
-[]()  
-[]()  
-[]()  
-[]()  
-[]()  
-[]()  
-[]()  
-[]()  
-[]()  
-[]()  
-[]()  
-[]()  
+[Coding](https://github.com/newCodez99/Using-Github/blob/master/Github%20Flavored%20Markdown.md#coding)  
+[Hotkeys](https://github.com/newCodez99/Using-Github/blob/master/Github%20Flavored%20Markdown.md#hotkeys)  
+[Emojis](https://github.com/newCodez99/Using-Github/blob/master/Github%20Flavored%20Markdown.md#emojis)  
+[Blockquotes or Quoting](https://github.com/newCodez99/Using-Github/blob/master/Github%20Flavored%20Markdown.md#blockquotes-or-quoting)  
+[Hyperlinks](https://github.com/newCodez99/Using-Github/blob/master/Github%20Flavored%20Markdown.md#hyperlinks)  
+[Adding Images](https://github.com/newCodez99/Using-Github/blob/master/Github%20Flavored%20Markdown.md#adding-images)  
+[Creating lists](https://github.com/newCodez99/Using-Github/blob/master/Github%20Flavored%20Markdown.md#creating-lists)  
+[Checkboxes](https://github.com/newCodez99/Using-Github/blob/master/Github%20Flavored%20Markdown.md#checkboxes)  
+[Foldable lists](https://github.com/newCodez99/Using-Github/blob/master/Github%20Flavored%20Markdown.md#foldable-lists)  
+[Tables](https://github.com/newCodez99/Using-Github/blob/master/Github%20Flavored%20Markdown.md#tables)  
+[HTML Tables and Definition lists](https://github.com/newCodez99/Using-Github/blob/master/Github%20Flavored%20Markdown.md#html-tables-and-definition-lists)  
 
-
-
----
-
-```
-## Making a table of contents  
-[]()  
-```
 
 ---
 
@@ -147,7 +136,7 @@ Note: You can specify the different syntax highlighting based on the coding lang
 
 ---
 
-### Hotkey  
+### Hotkeys  
 
 ```
 <kbd>⌘F</kbd>
@@ -178,7 +167,7 @@ Hotkey list:
 
 ---
 
-### Emoji
+### Emojis
 
 :exclamation: Use emoji icons to enhance text. :+1: Look up emoji codes at emoji-cheat-sheet.com
 
@@ -286,7 +275,7 @@ Some text to show that the reference links can follow later.
 
 ---
 
-## Adding Image
+## Adding Images
 
 ```
 A logo (hover to see the title text):
@@ -313,7 +302,7 @@ Reference-style:
 
 ---
 
-## Creating list
+## Creating lists
 
 Adding a `-` or `*` or `+` or plus will change it into a list:
 
@@ -410,7 +399,7 @@ Markdown | Less | Pretty
 
 ---
 
-## HTML Table and Definition list
+## HTML Tables and Definition lists
 
 ```html
 <table>
