@@ -113,8 +113,8 @@ Hotkey list:
 
 |Key |Symbol|  
 |---|---|
-|Option|⌥|  <kbd>⌥F</kbd>  
-|Control|⌃|  <kbd>⌃F</kbd>  
+|Option|⌥| <kbd>⌥F</kbd>  
+|Control|⌃| <kbd>⌃F</kbd>  
 |Command|⌘|  
 |Shift|⇧|  
 |Caps Lock|⇪|  
