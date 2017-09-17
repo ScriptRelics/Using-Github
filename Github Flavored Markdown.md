@@ -111,21 +111,22 @@ Note: You can specify the different syntax highlighting based on the coding lang
 
 Hotkey list:
 
-|Key |Symbol|
-|Option|⌥|
-|Control|⌃|
-|Command|⌘|
-|Shift|⇧|
-|Caps Lock|⇪|
-|Tab|⇥|
-|Esc|⎋|
-|Power|⌽|
-|Return|↩|
-|Delete|⌫|
-|Up|↑|
-|Down|↓|
-|Left|←|
-|Right|→|
+|Key |Symbol|  
+|---|---|
+|Option|⌥|  
+|Control|⌃|  
+|Command|⌘|  
+|Shift|⇧|  
+|Caps Lock|⇪|  
+|Tab|⇥|  
+|Esc|⎋|  
+|Power|⌽|  
+|Return|↩|  
+|Delete|⌫|  
+|Up|↑|  
+|Down|↓|  
+|Left|←|  
+|Right|→|  
 
 ---
 
