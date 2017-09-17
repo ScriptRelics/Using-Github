@@ -272,12 +272,12 @@ will produce
 ## Checkboxes
 
 ```
- Markup : - [ ] An uncompleted task
-          - [x] A completed task
+ - [ ] An uncompleted task  
+ - [x] A completed task  
 ```
 
- Markup : - [ ] An uncompleted task
-          - [x] A completed task
+ - [ ] An uncompleted task  
+ - [x] A completed task  
 
 ---
 
