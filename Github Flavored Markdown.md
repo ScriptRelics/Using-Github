@@ -9,8 +9,8 @@ To specify a paragraph, leave 2 spaces at the end of the line
 **Bold Text** is done using `**Bold Text**` or `__Bold Text__`  
 *Italic Text* is done using `*Italic Text*` or `_Italic Text_`  
 **Bold Text and _Italic Text_** is done using both `**Bold Text and _Italic Text_**`  
-~~Strikethrough~~ is done with `~~Strikethrough~~`
-***Strong Bold Text*** is done using `***Strong Bold Text***`
+~~Strikethrough~~ is done with `~~Strikethrough~~`  
+***Strong Bold Text*** is done using `***Strong Bold Text***`  
 
 ---
 
@@ -28,7 +28,7 @@ H3 ### Hashes can be on either side
 will produce:
 # H1 gets border-bottom automatically
 ## H2 gets border-bottom automatically
-H3 ### Hashes can be on either side
+H3 Hashes can be on either side### 
 #### H4
 ##### H5
 ###### H6
@@ -280,6 +280,21 @@ will produce
  - [x] A completed task  
 
 ---
+
+## Foldable lists
+
+```
+<details>
+  <summary>Title 1</summary>
+  <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+</details>
+```
+
+<details>
+  <summary>Title 1</summary>
+  <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+</details>
+
 
 ## Tables
 
