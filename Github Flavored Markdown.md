@@ -109,6 +109,31 @@ Note: You can specify the different syntax highlighting based on the coding lang
 
 <kbd>⌘F</kbd>
 
+Hotkey list:
+
+|Key |Symbol|
+|Option|⌥|
+|Control|⌃|
+|Command|⌘|
+|Shift|⇧|
+|Caps Lock|⇪|
+|Tab|⇥|
+|Esc|⎋|
+|Power|⌽|
+|Return|↩|
+|Delete|⌫|
+|Up|↑|
+|Down|↓|
+|Left|←|
+|Right|→|
+
+---
+
+### Emoji
+
+:exclamation: Use emoji icons to enhance text. :+1: Look up emoji codes at emoji-cheat-sheet.com
+
+
 
 ---
 
