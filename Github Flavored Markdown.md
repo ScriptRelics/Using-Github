@@ -7,9 +7,9 @@ Github Flavored Markdown (GFMD)
 [Text Formatting](https://github.com/newCodez99/Using-Github/blob/master/Github%20Flavored%20Markdown.md#text-formatting)  
 [Headings](https://github.com/newCodez99/Using-Github/blob/master/Github%20Flavored%20Markdown.md#headings)  
 [Horizontal Rules](https://github.com/newCodez99/Using-Github/blob/master/Github%20Flavored%20Markdown.md#horizontal-rules)  
-[Coding](https://github.com/newCodez99/Using-Github/blob/master/Github%20Flavored%20Markdown.md#coding)  
 [Hotkeys](https://github.com/newCodez99/Using-Github/blob/master/Github%20Flavored%20Markdown.md#hotkeys)  
 [Emojis](https://github.com/newCodez99/Using-Github/blob/master/Github%20Flavored%20Markdown.md#emojis)  
+[Coding](https://github.com/newCodez99/Using-Github/blob/master/Github%20Flavored%20Markdown.md#coding)  
 [Blockquotes or Quoting](https://github.com/newCodez99/Using-Github/blob/master/Github%20Flavored%20Markdown.md#blockquotes-or-quoting)  
 [Hyperlinks](https://github.com/newCodez99/Using-Github/blob/master/Github%20Flavored%20Markdown.md#hyperlinks)  
 [Adding Images](https://github.com/newCodez99/Using-Github/blob/master/Github%20Flavored%20Markdown.md#adding-images)  
@@ -85,6 +85,56 @@ Underscores
 
 ---
 
+### Hotkeys  
+
+```
+<kbd>⌘F</kbd>
+```
+
+<kbd>⌘F</kbd>  
+<kbd>⌃F</kbd>  
+<kbd>⌥F</kbd>  
+
+Hotkey list:
+
+|Key |Symbol|  
+|---|---|
+|Option|⌥|  
+|Control|⌃|  
+|Command|⌘|  
+|Shift|⇧|  
+|Caps Lock|⇪|  
+|Tab|⇥|  
+|Esc|⎋|  
+|Power|⌽|  
+|Return|↩|  
+|Delete|⌫|  
+|Up|↑|  
+|Down|↓|  
+|Left|←|  
+|Right|→|  
+
+---
+
+### Emojis
+
+:exclamation: Use emoji icons to enhance text. :+1: Look up emoji codes at emoji-cheat-sheet.com
+
+
+
+---
+
+### Escape sequence  
+You can escape using \\ eg. \\\`
+
+```
+\`\`\`
+```
+
+
+
+---
+
 ## Coding
 
 Inline `code` has \`back-ticks\` around it.
@@ -134,53 +184,6 @@ But let's throw in a <b>tag</b>.
 
 Note: You can specify the different syntax highlighting based on the coding language eg. ruby, sh (for shell), php, etc  
 
----
-
-### Hotkeys  
-
-```
-<kbd>⌘F</kbd>
-```
-
-<kbd>⌘F</kbd>  
-<kbd>⌃F</kbd>  
-<kbd>⌥F</kbd>  
-
-Hotkey list:
-
-|Key |Symbol|  
-|---|---|
-|Option|⌥|  
-|Control|⌃|  
-|Command|⌘|  
-|Shift|⇧|  
-|Caps Lock|⇪|  
-|Tab|⇥|  
-|Esc|⎋|  
-|Power|⌽|  
-|Return|↩|  
-|Delete|⌫|  
-|Up|↑|  
-|Down|↓|  
-|Left|←|  
-|Right|→|  
-
----
-
-### Emojis
-
-:exclamation: Use emoji icons to enhance text. :+1: Look up emoji codes at emoji-cheat-sheet.com
-
-
-
----
-
-### Escape sequence  
-You can escape using \\ eg. \\\`
-
-```
-\`\`\`
-```
 
 ---
 
