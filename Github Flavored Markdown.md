@@ -236,24 +236,24 @@ Reference-style:
 Adding a `-` or `*` or `+` or plus will change it into a list:
 
 ```
-- Item 1
+- Item 1  
     3. four spaces makes a sub-list.  
     6. Actual numbers don't matter, just that it's a number  
     7. Ordered sub-list  
     1. Ordered sub-list  
-* Item 2
-+ Item 3
+* Item 2  
++ Item 3  
 ```
 
 will produce
 
-- Item 1
+- Item 1  
     3. four spaces makes a sub-list.  
     6. Actual numbers don't matter, just that it's a number  
     7. Ordered sub-list  
     1. Ordered sub-list  
-* Item 2
-+ Item 3
+* Item 2  
++ Item 3  
 
 ---
 
