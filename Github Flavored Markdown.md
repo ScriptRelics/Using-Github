@@ -449,5 +449,11 @@ will produce
 </dl>
 
 ---
+> 
+---
 
 > A huge thank you to adam-p and other sources for sharing your knowledge. Cheers!
+
+---
+
+[License](https://github.com/newCodez99/Using-Github/blob/master/LICENSE)
