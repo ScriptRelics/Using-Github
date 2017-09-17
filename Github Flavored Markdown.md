@@ -10,6 +10,7 @@ To specify a paragraph, leave 2 spaces at the end of the line
 *Italic Text* is done using `*Italic Text*` or `_Italic Text_`  
 **Bold Text and _Italic Text_** is done using both `**Bold Text and _Italic Text_**`  
 ~~Strikethrough~~ is done with `~~Strikethrough~~`
+***Strong Bold Text*** is done using `***Strong Bold Text***`
 
 ---
 
@@ -18,7 +19,7 @@ To specify a paragraph, leave 2 spaces at the end of the line
 ```
 # H1 gets border-bottom automatically
 ## H2 gets border-bottom automatically
-### H3
+H3 ### Hashes can be on either side
 #### H4
 ##### H5
 ###### H6
@@ -27,7 +28,7 @@ To specify a paragraph, leave 2 spaces at the end of the line
 will produce:
 # H1 gets border-bottom automatically
 ## H2 gets border-bottom automatically
-### H3
+H3 ### Hashes can be on either side
 #### H4
 ##### H5
 ###### H6
@@ -121,9 +122,16 @@ will produce
 
 > This is a quote
 
-
+```
+> Blockquote
+>> Nested quote
 ```
 
+> Blockquote
+>> Nested quote
+
+
+```
 > Blockquotes are very handy in email to emulate reply text.
 > On the same line or  
 > Another line is part of the same quote. Make sure to add in 2 spaces if you want a new line.
@@ -237,23 +245,39 @@ Adding a `-` or `*` or `+` or plus will change it into a list:
 
 ```
 - Item 1  
-    3. four spaces makes a sub-list.  
-    6. Actual numbers don't matter, just that it's a number  
-    7. Ordered sub-list  
-    1. Ordered sub-list  
-* Item 2  
-+ Item 3  
+    1. A numbered list
+        1. A nested numbered list
+        2. Which is numbered
+    2. Which is numbered
+* Item 2
+    * Nested bullet
+        * Sub-nested bullet etc
++ Item 3 
 ```
 
 will produce
 
 - Item 1  
-    3. four spaces makes a sub-list.  
-    6. Actual numbers don't matter, just that it's a number  
-    7. Ordered sub-list  
-    1. Ordered sub-list  
-* Item 2  
-+ Item 3  
+    1. A numbered list
+        1. A nested numbered list
+        2. Which is numbered
+    2. Which is numbered
+* Item 2
+    * Nested bullet
+        * Sub-nested bullet etc
++ Item 3 
+
+---
+
+## Checkboxes
+
+```
+ Markup : - [ ] An uncompleted task
+          - [x] A completed task
+```
+
+ Markup : - [ ] An uncompleted task
+          - [x] A completed task
 
 ---
 
