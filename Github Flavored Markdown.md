@@ -100,7 +100,7 @@ Note: You can specify the different syntax highlighting based on the coding lang
 
 ---
 
-Escape sequence  
+###Escape sequence  
 You can escape using \\ eg. \\\`
 
 ```
@@ -237,10 +237,10 @@ Adding a `-` or `*` or `+` or plus will change it into a list:
 
 ```
 - Item 1
-    3. four spaces makes a sub-list.
-    6. Actual numbers don't matter, just that it's a number
-    7. Ordered sub-list
-    1. Ordered sub-list
+    3. four spaces makes a sub-list.  
+    6. Actual numbers don't matter, just that it's a number  
+    7. Ordered sub-list  
+    1. Ordered sub-list  
 * Item 2
 + Item 3
 ```
@@ -248,10 +248,10 @@ Adding a `-` or `*` or `+` or plus will change it into a list:
 will produce
 
 - Item 1
-    3. four spaces makes a sub-list.
-    6. Actual numbers don't matter, just that it's a number
-    7. Ordered sub-list
-    1. Ordered sub-list
+    3. four spaces makes a sub-list.  
+    6. Actual numbers don't matter, just that it's a number  
+    7. Ordered sub-list  
+    1. Ordered sub-list  
 * Item 2
 + Item 3
 
