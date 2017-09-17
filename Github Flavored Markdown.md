@@ -295,12 +295,12 @@ Reference-style:
 A logo (hover to see the title text):
 
 Inline-style:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://avatars3.githubusercontent.com/u/15163742?v=4&s=40 "Logo Title Text 1")
 
 Reference-style:
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo]: https://avatars3.githubusercontent.com/u/15163742?v=4&s=40 "Logo Title Text 2"
 
 
 ---
