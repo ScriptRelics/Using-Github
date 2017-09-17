@@ -448,3 +448,6 @@ will produce
     <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
 
+---
+
+> A huge thank you to adam-p and other sources for sharing your knowledge. Cheers!
