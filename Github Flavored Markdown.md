@@ -56,6 +56,13 @@ To specify a paragraph, leave 2 spaces at the end of the line
 #### H4
 ##### H5
 ###### H6
+
+Alt-H1
+======
+
+Alt-H2
+------
+
 ```
 
 will produce:
@@ -65,6 +72,12 @@ will produce:
 #### H4
 ##### H5
 ###### H6
+
+Alt-H1
+======
+
+Alt-H2
+------
 
 ---
 
