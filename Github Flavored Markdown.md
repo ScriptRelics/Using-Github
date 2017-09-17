@@ -3,7 +3,7 @@ Github Flavored Markdown (GFMD)
 ---
 
 # Table of Contents  
-[Text Writing and Line Breaks](##Text Writing and Line Breaks)  
+[Text Writing and Line Breaks](https://github.com/newCodez99/Using-Github/blob/master/Github%20Flavored%20Markdown.md##Text Writing and Line Breaks)  
 [Text Formatting](## Text Formatting)  
 [Headings](## Headings)  
 [Horizontal Rules](## Horizontal Rules)  
@@ -52,15 +52,15 @@ To specify a paragraph, leave 2 spaces at the end of the line
 ```
 # H1 gets border-bottom automatically
 ## H2 gets border-bottom automatically
-### H3 Hashes can be on both sides ### 
+### H3 Hashes can be on both sides ###
 #### H4
 ##### H5
 ###### H6
 
-Alt-H1
+Alt-H1 gets border-bottom automatically
 ======
 
-Alt-H2
+Alt-H2 gets border-bottom automatically
 ------
 
 ```
@@ -68,15 +68,15 @@ Alt-H2
 will produce:
 # H1 gets border-bottom automatically
 ## H2 gets border-bottom automatically
-### H3 Hashes can be on both sides ### 
+### H3 Hashes can be on both sides ###
 #### H4
 ##### H5
 ###### H6
 
-Alt-H1
+Alt-H1 gets border-bottom automatically
 ======
 
-Alt-H2
+Alt-H2 gets border-bottom automatically
 ------
 
 ---
