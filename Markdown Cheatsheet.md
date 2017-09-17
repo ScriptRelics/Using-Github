@@ -23,7 +23,7 @@ Github Flavored Markdown (GFMD)
 ---
 
 ## Text Writing and Line Breaks
-To specify a paragraph, leave 2 spaces at the end of the line
+To specify a paragraph, leave 2 spaces at the end of the line  
 
 ---
 
@@ -466,6 +466,8 @@ will produce
   
 
 > A huge thank you to adam-p and other sources for sharing your knowledge. Cheers!
+
+Check out more at https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 
 [License](https://github.com/newCodez99/Using-Github/blob/master/LICENSE)
