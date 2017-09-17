@@ -28,7 +28,7 @@ H3 ### Hashes can be on either side
 will produce:
 # H1 gets border-bottom automatically
 ## H2 gets border-bottom automatically
-H3 Hashes can be on either side ### 
+### H3 Hashes can be on both sides ### 
 #### H4
 ##### H5
 ###### H6
