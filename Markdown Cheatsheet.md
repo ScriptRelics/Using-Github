@@ -319,7 +319,7 @@ Reference-style:
 
 ## Creating lists
 
-Adding a `-` or `*` or `+` or plus will change it into a list:
+Adding a `-` or `*` or `+` will change it into a list:
 
 ```
 - Item 1  
