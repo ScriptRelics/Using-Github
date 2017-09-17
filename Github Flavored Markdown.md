@@ -3,10 +3,10 @@ Github Flavored Markdown (GFMD)
 ---
 
 # Table of Contents  
-[Text Writing and Line Breaks](https://github.com/newCodez99/Using-Github/blob/master/Github%20Flavored%20Markdown.md##Text Writing and Line Breaks)  
-[Text Formatting](## Text Formatting)  
-[Headings](## Headings)  
-[Horizontal Rules](## Horizontal Rules)  
+[Text Writing and Line Breaks](https://github.com/newCodez99/Using-Github/blob/master/Github%20Flavored%20Markdown.md#text-writing-and-line-breaks)  
+[Text Formatting](https://github.com/newCodez99/Using-Github/blob/master/Github%20Flavored%20Markdown.md#text-formatting)  
+[Headings](https://github.com/newCodez99/Using-Github/blob/master/Github%20Flavored%20Markdown.md#headings)  
+[Horizontal Rules](https://github.com/newCodez99/Using-Github/blob/master/Github%20Flavored%20Markdown.md#horizontal-rules)  
 []()  
 []()  
 []()  
