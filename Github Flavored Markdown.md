@@ -107,14 +107,16 @@ Note: You can specify the different syntax highlighting based on the coding lang
 <kbd>⌘F</kbd>
 ```
 
-<kbd>⌘F</kbd>
+<kbd>⌘F</kbd>  
+<kbd>⌃F</kbd>  
+<kbd>⌥F</kbd>  
 
 Hotkey list:
 
 |Key |Symbol|  
 |---|---|
-|Option|⌥| <kbd>⌥F</kbd>  
-|Control|⌃| <kbd>⌃F</kbd>  
+|Option|⌥|  
+|Control|⌃|  
 |Command|⌘|  
 |Shift|⇧|  
 |Caps Lock|⇪|  
