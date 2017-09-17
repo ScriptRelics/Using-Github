@@ -19,7 +19,7 @@ To specify a paragraph, leave 2 spaces at the end of the line
 ```
 # H1 gets border-bottom automatically
 ## H2 gets border-bottom automatically
-H3 ### Hashes can be on either side
+### H3 Hashes can be on both sides ### 
 #### H4
 ##### H5
 ###### H6
@@ -101,7 +101,18 @@ Note: You can specify the different syntax highlighting based on the coding lang
 
 ---
 
-###Escape sequence  
+### Hotkey  
+
+```
+<kbd>⌘F</kbd>
+```
+
+<kbd>⌘F</kbd>
+
+
+---
+
+### Escape sequence  
 You can escape using \\ eg. \\\`
 
 ```
@@ -198,17 +209,6 @@ Some text to show that the reference links can follow later.
 [arbitrary case-insensitive reference text]: https://www.mozilla.org
 [1]: http://www.google.com
 [link text itself]: http://www.reddit.com
-
----
-
-##Youtube Videos Links
-
-They can’t be added directly but you can add an image with a link to the video like this:
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=YOUTUBE_VIDEO_ID_HERE " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-Or, in pure Markdown, but losing the image sizing and border:
-
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 ---
 
