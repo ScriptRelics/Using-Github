@@ -118,7 +118,7 @@ Hotkey list:
 
 ### Emojis
 
-:exclamation: Use emoji icons to enhance text. :+1: Look up emoji codes at emoji-cheat-sheet.com
+:exclamation: Use emoji icons to enhance text. :+1: Look up emoji codes at [emoji-cheat-sheet.com]
 
 
 
@@ -284,12 +284,12 @@ Some text to show that the reference links can follow later.
 A logo (hover to see the title text):
 
 Inline-style:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://avatars3.githubusercontent.com/u/15163742?v=4&s=40 "Logo Title Text 1")
 
 Reference-style:
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo]: https://avatars3.githubusercontent.com/u/15163742?v=4&s=40 "Logo Title Text 2"
 ```
 
 A logo (hover to see the title text):
