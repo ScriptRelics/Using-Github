@@ -16,8 +16,8 @@ To specify a paragraph, leave 2 spaces at the end of the line
 ## Headings
 
 ```
-# H1
-## H2
+# H1 gets border-bottom automatically
+## H2 gets border-bottom automatically
 ### H3
 #### H4
 ##### H5
