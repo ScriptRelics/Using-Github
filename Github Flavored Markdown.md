@@ -86,8 +86,8 @@ Underscores
 Use an empty blockquote for a large rule 
 
 <pre>
-\```
-\```
+```
+```
 </pre>  
 
 Makes this:  
