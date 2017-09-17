@@ -1,5 +1,38 @@
 Github Flavored Markdown (GFMD) 
 
+---
+
+# Table of Contents  
+[Text Writing and Line Breaks](##Text Writing and Line Breaks)  
+[Text Formatting](## Text Formatting)  
+[Headings](## Headings)  
+[Horizontal Rules](## Horizontal Rules)  
+[]()  
+[]()  
+[]()  
+[]()  
+[]()  
+[]()  
+[]()  
+[]()  
+[]()  
+[]()  
+[]()  
+[]()  
+[]()  
+[]()  
+
+
+
+---
+
+```
+## Making a table of contents  
+[]()  
+```
+
+---
+
 ## Text Writing and Line Breaks
 To specify a paragraph, leave 2 spaces at the end of the line
 
