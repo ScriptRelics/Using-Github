@@ -83,7 +83,13 @@ Asterisks
 ___
 Underscores
 
-Use an empty blockquote for a large rule
+Use an empty blockquote for a large rule 
+
+```
+\`\`\`
+\`\`\`
+```
+Makes this:  
 
 ```
 ```
