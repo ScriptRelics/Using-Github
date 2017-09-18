@@ -3,21 +3,21 @@ Github Flavored Markdown (GFMD)
 ---
 
 # Table of Contents  
-[Text Writing and Line Breaks](https://github.com/newCodez99/Using-Github/blob/master/Markdown%20Cheatsheet.md#text-writing-and-line-breaks)  
-[Text Formatting](https://github.com/newCodez99/Using-Github/blob/master/Markdown%20Cheatsheet.md#text-formatting)  
-[Headings](https://github.com/newCodez99/Using-Github/blob/master/Markdown%20Cheatsheet.md#headings)  
-[Horizontal Rules](https://github.com/newCodez99/Using-Github/blob/master/Markdown%20Cheatsheet.md#horizontal-rules)  
-[Hotkeys](https://github.com/newCodez99/Using-Github/blob/master/Markdown%20Cheatsheet.md#hotkeys)  
-[Emojis](https://github.com/newCodez99/Using-Github/blob/master/Markdown%20Cheatsheet.md#emojis)  
-[Coding](https://github.com/newCodez99/Using-Github/blob/master/Markdown%20Cheatsheet.md#coding)  
-[Blockquotes or Quoting](https://github.com/newCodez99/Using-Github/blob/master/Markdown%20Cheatsheet.md#blockquotes-or-quoting)  
-[Hyperlinks](https://github.com/newCodez99/Using-Github/blob/master/Markdown%20Cheatsheet.md#hyperlinks)  
-[Adding Images](https://github.com/newCodez99/Using-Github/blob/master/Markdown%20Cheatsheet.md#adding-images)  
-[Creating lists](https://github.com/newCodez99/Using-Github/blob/master/Markdown%20Cheatsheet.md#creating-lists)  
-[Checkboxes](https://github.com/newCodez99/Using-Github/blob/master/Markdown%20Cheatsheet.md#checkboxes)  
-[Foldable lists](https://github.com/newCodez99/Using-Github/blob/master/Markdown%20Cheatsheet.md#foldable-lists)  
-[Tables](https://github.com/newCodez99/Using-Github/blob/master/Markdown%20Cheatsheet.md#tables)  
-[HTML Tables and Definition lists](https://github.com/newCodez99/Using-Github/blob/master/Markdown%20Cheatsheet.md#html-tables-and-definition-lists)  
+[Text Writing and Line Breaks](../master/Markdown%20Cheatsheet.md#text-writing-and-line-breaks)  
+[Text Formatting](../master/Markdown%20Cheatsheet.md#text-formatting)  
+[Headings](../master/Markdown%20Cheatsheet.md#headings)  
+[Horizontal Rules](../master/Markdown%20Cheatsheet.md#horizontal-rules)  
+[Hotkeys](../master/Markdown%20Cheatsheet.md#hotkeys)  
+[Emojis](../master/Markdown%20Cheatsheet.md#emojis)  
+[Coding](../master/Markdown%20Cheatsheet.md#coding)  
+[Blockquotes or Quoting](../master/Markdown%20Cheatsheet.md#blockquotes-or-quoting)  
+[Hyperlinks](../master/Markdown%20Cheatsheet.md#hyperlinks)  
+[Adding Images](../master/Markdown%20Cheatsheet.md#adding-images)  
+[Creating lists](../master/Markdown%20Cheatsheet.md#creating-lists)  
+[Checkboxes](../master/Markdown%20Cheatsheet.md#checkboxes)  
+[Foldable lists](../master/Markdown%20Cheatsheet.md#foldable-lists)  
+[Tables](../master/Markdown%20Cheatsheet.md#tables)  
+[HTML Tables and Definition lists](../master/Markdown%20Cheatsheet.md#html-tables-and-definition-lists)  
 
 
 ---
@@ -470,4 +470,4 @@ will produce
 Check out more at https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 
-[License](https://github.com/newCodez99/Using-Github/blob/master/LICENSE)
+[License](../master/LICENSE)
