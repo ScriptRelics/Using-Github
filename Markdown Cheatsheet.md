@@ -460,7 +460,7 @@ will produce
     <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
 
-[Back to the top. ⇧](../master/Markdown%20Cheatsheet.md/#Github-Flavored-Markdown-(GFMD))
+[Back to the top. ⇧](../master/Markdown%20Cheatsheet.md/#github-flavored-markdown-gfmd)
 
   
 ```
