@@ -1,8 +1,8 @@
-Github Flavored Markdown (GFMD) 
+# Github Flavored Markdown (GFMD) 
 
 ---
 
-# Table of Contents  
+### Table of Contents  
 [Text Writing and Line Breaks](../master/Markdown%20Cheatsheet.md#text-writing-and-line-breaks)  
 [Text Formatting](../master/Markdown%20Cheatsheet.md#text-formatting)  
 [Headings](../master/Markdown%20Cheatsheet.md#headings)  
@@ -459,6 +459,8 @@ will produce
     <dt>Markdown in HTML</dt>
     <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
+
+[Back to the top. ⇧](../master/Markdown%20Cheatsheet.md/#Github-Flavored-Markdown-(GFMD))
 
   
 ```
