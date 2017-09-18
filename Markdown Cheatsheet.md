@@ -1,7 +1,5 @@
 # Github Flavored Markdown (GFMD) 
 
----
-
 ### Table of Contents  
 [Text Writing and Line Breaks](../master/Markdown%20Cheatsheet.md#text-writing-and-line-breaks)  
 [Text Formatting](../master/Markdown%20Cheatsheet.md#text-formatting)  
